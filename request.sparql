@@ -1,0 +1,9 @@
+SELECT ?element (SAMPLE(?symbol) AS ?symbol)
+WHERE {
+  ?element wdt:P31 wd:Q11344.
+  ?element wdt:P246 ?symbol.
+  MINUS {
+    ?element wdt:P279 wd:Q24243084.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  }}
+GROUP BY ?element
