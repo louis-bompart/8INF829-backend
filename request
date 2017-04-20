@@ -1,0 +1,37 @@
+#Chemical elements and their properties
+#added before 2016-10
+
+SELECT ?symbol ?elementLabel (SAMPLE(?electronegativity) AS ?electronegativity) (SAMPLE(?mass) AS ?mass) (SAMPLE(?density) AS ?density) (SAMPLE(?melting_point) AS ?melting_point) (SAMPLE(?protons) AS ?protons) (SAMPLE(?boiling_point) AS ?boiling_point)
+WHERE
+{
+  ?element wdt:P31 wd:Q11344.
+  ?element wdt:P246 ?symbol.
+  MINUS {
+    ?element wdt:P279 wd:Q24243084.
+  }
+  OPTIONAL {
+  ?isotope wdt:P279 ?element;
+           wdt:P1148 ?neutrons.
+  }
+  OPTIONAL {
+	?element wdt:P1086 ?protons;
+  }
+  OPTIONAL {
+    ?element wdt:P2102 ?boiling_point;
+  }
+  OPTIONAL {
+    ?element wdt:P2101 ?melting_point;
+  }
+  OPTIONAL {
+    ?element wdt:P1108 ?electronegativity;
+  }
+  OPTIONAL {
+    ?element wdt:P2067 ?mass;
+  }
+  OPTIONAL {
+   ?element wdt:P2054 ?density.
+  }
+	SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+GROUP BY ?symbol ?elementLabel
+ORDER BY ?protons

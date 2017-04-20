@@ -4,8 +4,8 @@
   "dependencies": {
     "firebase-admin": "^4.1.2",
     "firebase-functions": "^0.5",
-    "isomorphic-fetch": "^2.2.1",
-    "sparql-http-client": "^1.0.2"
+    "request": "^2.81.0",
+    "wikidata-sdk": "^5.1.4"
   },
   "private": true,
   "scripts": {

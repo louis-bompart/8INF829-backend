@@ -1,0 +1,911 @@
+{
+  "chemicals" : [ {
+    "electronegativity" : "2.2",
+    "element" : "http://www.wikidata.org/entity/Q556",
+    "maxNeutrons" : "6",
+    "minNeutrons" : "0",
+    "protons" : "1",
+    "symbol" : "H"
+  }, {
+    "density" : "0.1785",
+    "electronegativity" : "4.5",
+    "element" : "http://www.wikidata.org/entity/Q560",
+    "mass" : "4.002602",
+    "maxNeutrons" : "8",
+    "minNeutrons" : "0",
+    "protons" : "2",
+    "symbol" : "He"
+  }, {
+    "density" : "535",
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q568",
+    "maxNeutrons" : "10",
+    "minNeutrons" : "0",
+    "protons" : "3",
+    "symbol" : "Li"
+  }, {
+    "boiling_point" : "4532",
+    "density" : "1850",
+    "electronegativity" : "2",
+    "element" : "http://www.wikidata.org/entity/Q569",
+    "mass" : "9.012182",
+    "maxNeutrons" : "13",
+    "melting_point" : "2349",
+    "minNeutrons" : "1",
+    "protons" : "4",
+    "symbol" : "Be"
+  }, {
+    "density" : "2080",
+    "electronegativity" : "2",
+    "element" : "http://www.wikidata.org/entity/Q618",
+    "mass" : "11.009305",
+    "maxNeutrons" : "14",
+    "minNeutrons" : "1",
+    "protons" : "5",
+    "symbol" : "B"
+  }, {
+    "electronegativity" : "3",
+    "element" : "http://www.wikidata.org/entity/Q623",
+    "mass" : "12.011",
+    "maxNeutrons" : "16",
+    "minNeutrons" : "2",
+    "protons" : "6",
+    "symbol" : "C"
+  }, {
+    "electronegativity" : "3",
+    "element" : "http://www.wikidata.org/entity/Q627",
+    "maxNeutrons" : "18",
+    "minNeutrons" : "3",
+    "protons" : "7",
+    "symbol" : "N"
+  }, {
+    "electronegativity" : "3.44",
+    "element" : "http://www.wikidata.org/entity/Q629",
+    "maxNeutrons" : "20",
+    "minNeutrons" : "4",
+    "protons" : "8",
+    "symbol" : "O"
+  }, {
+    "boiling_point" : "-307",
+    "electronegativity" : "3.98",
+    "element" : "http://www.wikidata.org/entity/Q650",
+    "mass" : "38",
+    "maxNeutrons" : "22",
+    "melting_point" : "-363",
+    "minNeutrons" : "5",
+    "protons" : "9",
+    "symbol" : "F"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q654",
+    "mass" : "19.992",
+    "maxNeutrons" : "24",
+    "minNeutrons" : "6",
+    "protons" : "10",
+    "symbol" : "Ne"
+  }, {
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q658",
+    "maxNeutrons" : "26",
+    "minNeutrons" : "7",
+    "protons" : "11",
+    "symbol" : "Na"
+  }, {
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q660",
+    "mass" : "23.985",
+    "maxNeutrons" : "28",
+    "minNeutrons" : "7",
+    "protons" : "12",
+    "symbol" : "Mg"
+  }, {
+    "boiling_point" : "4221",
+    "density" : "2.7",
+    "electronegativity" : "1.61",
+    "element" : "http://www.wikidata.org/entity/Q663",
+    "mass" : "26.981539",
+    "maxNeutrons" : "29",
+    "melting_point" : "1220",
+    "minNeutrons" : "6",
+    "protons" : "13",
+    "symbol" : "Al"
+  }, {
+    "boiling_point" : "4271",
+    "density" : "2.33",
+    "element" : "http://www.wikidata.org/entity/Q670",
+    "mass" : "27.977",
+    "maxNeutrons" : "30",
+    "melting_point" : "2570",
+    "minNeutrons" : "8",
+    "protons" : "14",
+    "symbol" : "Si"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q674",
+    "maxNeutrons" : "31",
+    "minNeutrons" : "9",
+    "protons" : "15",
+    "symbol" : "P"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q682",
+    "maxNeutrons" : "33",
+    "minNeutrons" : "10",
+    "protons" : "16",
+    "symbol" : "S"
+  }, {
+    "electronegativity" : "3",
+    "element" : "http://www.wikidata.org/entity/Q688",
+    "mass" : "35.45",
+    "maxNeutrons" : "34",
+    "minNeutrons" : "11",
+    "protons" : "17",
+    "symbol" : "Cl"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q696",
+    "mass" : "39.962",
+    "maxNeutrons" : "35",
+    "minNeutrons" : "12",
+    "protons" : "18",
+    "symbol" : "Ar"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q703",
+    "maxNeutrons" : "36",
+    "minNeutrons" : "13",
+    "protons" : "19",
+    "symbol" : "K"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q706",
+    "mass" : "39.963",
+    "maxNeutrons" : "37",
+    "minNeutrons" : "14",
+    "protons" : "20",
+    "symbol" : "Ca"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q713",
+    "mass" : "44.955912",
+    "maxNeutrons" : "39",
+    "minNeutrons" : "15",
+    "protons" : "21",
+    "symbol" : "Sc"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q716",
+    "maxNeutrons" : "41",
+    "minNeutrons" : "16",
+    "protons" : "22",
+    "symbol" : "Ti"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q722",
+    "mass" : "50.943959",
+    "maxNeutrons" : "42",
+    "minNeutrons" : "17",
+    "protons" : "23",
+    "symbol" : "V"
+  }, {
+    "boiling_point" : "4788",
+    "density" : "7.14",
+    "element" : "http://www.wikidata.org/entity/Q725",
+    "mass" : "52",
+    "maxNeutrons" : "43",
+    "melting_point" : "3452",
+    "minNeutrons" : "18",
+    "protons" : "24",
+    "symbol" : "Cr"
+  }, {
+    "boiling_point" : "3564",
+    "density" : "7.2",
+    "element" : "http://www.wikidata.org/entity/Q731",
+    "mass" : "54.9",
+    "maxNeutrons" : "44",
+    "melting_point" : "2271",
+    "minNeutrons" : "19",
+    "protons" : "25",
+    "symbol" : "Mn"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q677",
+    "mass" : "55.935",
+    "maxNeutrons" : "46",
+    "minNeutrons" : "19",
+    "protons" : "26",
+    "symbol" : "Fe"
+  }, {
+    "boiling_point" : "5612",
+    "density" : "8.92",
+    "element" : "http://www.wikidata.org/entity/Q740",
+    "mass" : "58.9",
+    "maxNeutrons" : "48",
+    "melting_point" : "2719",
+    "minNeutrons" : "20",
+    "protons" : "27",
+    "symbol" : "Co"
+  }, {
+    "boiling_point" : "5139",
+    "density" : "8.9",
+    "electronegativity" : "1.91",
+    "element" : "http://www.wikidata.org/entity/Q744",
+    "mass" : "57.935",
+    "maxNeutrons" : "50",
+    "melting_point" : "2831",
+    "minNeutrons" : "20",
+    "protons" : "28",
+    "symbol" : "Ni"
+  }, {
+    "boiling_point" : "4703",
+    "density" : "8.94",
+    "electronegativity" : "1.9",
+    "element" : "http://www.wikidata.org/entity/Q753",
+    "mass" : "62.93",
+    "maxNeutrons" : "51",
+    "melting_point" : "1981",
+    "minNeutrons" : "23",
+    "protons" : "29",
+    "symbol" : "Cu"
+  }, {
+    "electronegativity" : "1.65",
+    "element" : "http://www.wikidata.org/entity/Q758",
+    "mass" : "63.929",
+    "maxNeutrons" : "53",
+    "minNeutrons" : "24",
+    "protons" : "30",
+    "symbol" : "Zn"
+  }, {
+    "electronegativity" : "1.81",
+    "element" : "http://www.wikidata.org/entity/Q861",
+    "mass" : "68.925574",
+    "maxNeutrons" : "55",
+    "minNeutrons" : "25",
+    "protons" : "31",
+    "symbol" : "Ga"
+  }, {
+    "electronegativity" : "2.01",
+    "element" : "http://www.wikidata.org/entity/Q867",
+    "mass" : "73.921178",
+    "maxNeutrons" : "57",
+    "minNeutrons" : "26",
+    "protons" : "32",
+    "symbol" : "Ge"
+  }, {
+    "density" : "5.73",
+    "electronegativity" : "2.18",
+    "element" : "http://www.wikidata.org/entity/Q871",
+    "mass" : "74.92",
+    "maxNeutrons" : "59",
+    "melting_point" : "1135",
+    "minNeutrons" : "27",
+    "protons" : "33",
+    "symbol" : "As"
+  }, {
+    "boiling_point" : "1265",
+    "density" : "4.28",
+    "electronegativity" : "2.55",
+    "element" : "http://www.wikidata.org/entity/Q876",
+    "mass" : "79.917",
+    "maxNeutrons" : "60",
+    "melting_point" : "392",
+    "minNeutrons" : "31",
+    "protons" : "34",
+    "symbol" : "Se"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q879",
+    "maxNeutrons" : "62",
+    "minNeutrons" : "31",
+    "protons" : "35",
+    "symbol" : "Br"
+  }, {
+    "electronegativity" : "3",
+    "element" : "http://www.wikidata.org/entity/Q888",
+    "mass" : "83.911",
+    "maxNeutrons" : "65",
+    "minNeutrons" : "33",
+    "protons" : "36",
+    "symbol" : "Kr"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q895",
+    "mass" : "84.91179",
+    "maxNeutrons" : "65",
+    "minNeutrons" : "34",
+    "protons" : "37",
+    "symbol" : "Rb"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q938",
+    "mass" : "87.905612",
+    "maxNeutrons" : "67",
+    "minNeutrons" : "35",
+    "protons" : "38",
+    "symbol" : "Sr"
+  }, {
+    "boiling_point" : "5301",
+    "density" : "4.47",
+    "element" : "http://www.wikidata.org/entity/Q941",
+    "mass" : "88.9",
+    "maxNeutrons" : "69",
+    "melting_point" : "2732",
+    "minNeutrons" : "37",
+    "protons" : "39",
+    "symbol" : "Y"
+  }, {
+    "boiling_point" : "6471",
+    "density" : "6.51",
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q1038",
+    "mass" : "89.905",
+    "maxNeutrons" : "70",
+    "melting_point" : "3375",
+    "minNeutrons" : "38",
+    "protons" : "40",
+    "symbol" : "Zr"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1046",
+    "mass" : "92.906378",
+    "maxNeutrons" : "72",
+    "minNeutrons" : "40",
+    "protons" : "41",
+    "symbol" : "Nb"
+  }, {
+    "boiling_point" : "8717",
+    "density" : "10.28",
+    "element" : "http://www.wikidata.org/entity/Q1053",
+    "mass" : "97.905",
+    "maxNeutrons" : "73",
+    "melting_point" : "4752",
+    "minNeutrons" : "41",
+    "protons" : "42",
+    "symbol" : "Mo"
+  }, {
+    "electronegativity" : "1.9",
+    "element" : "http://www.wikidata.org/entity/Q1054",
+    "maxNeutrons" : "75",
+    "melting_point" : "2170",
+    "minNeutrons" : "42",
+    "protons" : "43",
+    "symbol" : "Tc"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1086",
+    "mass" : "101.904",
+    "maxNeutrons" : "76",
+    "minNeutrons" : "43",
+    "protons" : "44",
+    "symbol" : "Ru"
+  }, {
+    "boiling_point" : "6741",
+    "density" : "12.41",
+    "element" : "http://www.wikidata.org/entity/Q1087",
+    "mass" : "102.905",
+    "maxNeutrons" : "77",
+    "melting_point" : "3571",
+    "minNeutrons" : "44",
+    "protons" : "45",
+    "symbol" : "Rh"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1089",
+    "mass" : "105.903",
+    "maxNeutrons" : "82",
+    "minNeutrons" : "45",
+    "protons" : "46",
+    "symbol" : "Pd"
+  }, {
+    "boiling_point" : "3632",
+    "density" : "10.49",
+    "electronegativity" : "2",
+    "element" : "http://www.wikidata.org/entity/Q1090",
+    "mass" : "107.8682",
+    "maxNeutrons" : "83",
+    "melting_point" : "1761",
+    "minNeutrons" : "46",
+    "protons" : "47",
+    "symbol" : "Ag"
+  }, {
+    "density" : "8.65",
+    "element" : "http://www.wikidata.org/entity/Q1091",
+    "mass" : "113.903",
+    "maxNeutrons" : "84",
+    "minNeutrons" : "47",
+    "protons" : "48",
+    "symbol" : "Cd"
+  }, {
+    "boiling_point" : "3767",
+    "density" : "7.31",
+    "element" : "http://www.wikidata.org/entity/Q1094",
+    "mass" : "114.904",
+    "maxNeutrons" : "86",
+    "melting_point" : "314",
+    "minNeutrons" : "48",
+    "protons" : "49",
+    "symbol" : "In"
+  }, {
+    "boiling_point" : "4545",
+    "density" : "7.28",
+    "element" : "http://www.wikidata.org/entity/Q1096",
+    "mass" : "118.7",
+    "maxNeutrons" : "87",
+    "melting_point" : "449",
+    "minNeutrons" : "49",
+    "protons" : "50",
+    "symbol" : "Sn"
+  }, {
+    "boiling_point" : "2975",
+    "density" : "6.69",
+    "element" : "http://www.wikidata.org/entity/Q1099",
+    "mass" : "120.903816",
+    "maxNeutrons" : "88",
+    "melting_point" : "1166",
+    "minNeutrons" : "52",
+    "protons" : "51",
+    "symbol" : "Sb"
+  }, {
+    "boiling_point" : "1814",
+    "density" : "6.24",
+    "element" : "http://www.wikidata.org/entity/Q1100",
+    "mass" : "129.906224",
+    "maxNeutrons" : "90",
+    "melting_point" : "842",
+    "minNeutrons" : "53",
+    "protons" : "52",
+    "symbol" : "Te"
+  }, {
+    "electronegativity" : "3",
+    "element" : "http://www.wikidata.org/entity/Q1103",
+    "mass" : "126.90447",
+    "maxNeutrons" : "91",
+    "minNeutrons" : "55",
+    "protons" : "53",
+    "symbol" : "I"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1106",
+    "mass" : "131.904",
+    "maxNeutrons" : "93",
+    "minNeutrons" : "56",
+    "protons" : "54",
+    "symbol" : "Xe"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1108",
+    "mass" : "132.905452",
+    "maxNeutrons" : "96",
+    "minNeutrons" : "57",
+    "protons" : "55",
+    "symbol" : "Cs"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1112",
+    "maxNeutrons" : "97",
+    "minNeutrons" : "58",
+    "protons" : "56",
+    "symbol" : "Ba"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1801",
+    "maxNeutrons" : "98",
+    "minNeutrons" : "60",
+    "protons" : "57",
+    "symbol" : "La"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1385",
+    "mass" : "139.905",
+    "maxNeutrons" : "99",
+    "minNeutrons" : "61",
+    "protons" : "58",
+    "symbol" : "Ce"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1386",
+    "mass" : "140.908",
+    "maxNeutrons" : "100",
+    "minNeutrons" : "62",
+    "protons" : "59",
+    "symbol" : "Pr"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1388",
+    "mass" : "141.908",
+    "maxNeutrons" : "101",
+    "minNeutrons" : "64",
+    "protons" : "60",
+    "symbol" : "Nd"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1809",
+    "mass" : "144.913",
+    "maxNeutrons" : "102",
+    "minNeutrons" : "65",
+    "protons" : "61",
+    "symbol" : "Pm"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1819",
+    "mass" : "151.92",
+    "maxNeutrons" : "103",
+    "minNeutrons" : "66",
+    "protons" : "62",
+    "symbol" : "Sm"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1396",
+    "mass" : "152.921",
+    "maxNeutrons" : "104",
+    "minNeutrons" : "67",
+    "protons" : "63",
+    "symbol" : "Eu"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1832",
+    "mass" : "157.924",
+    "maxNeutrons" : "105",
+    "minNeutrons" : "70",
+    "protons" : "64",
+    "symbol" : "Gd"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1838",
+    "mass" : "158.925",
+    "maxNeutrons" : "106",
+    "minNeutrons" : "70",
+    "protons" : "65",
+    "symbol" : "Tb"
+  }, {
+    "electronegativity" : "1.22",
+    "element" : "http://www.wikidata.org/entity/Q1843",
+    "mass" : "163.929",
+    "maxNeutrons" : "107",
+    "minNeutrons" : "72",
+    "protons" : "66",
+    "symbol" : "Dy"
+  }, {
+    "electronegativity" : "1.23",
+    "element" : "http://www.wikidata.org/entity/Q1846",
+    "mass" : "164.93032",
+    "maxNeutrons" : "108",
+    "minNeutrons" : "73",
+    "protons" : "67",
+    "symbol" : "Ho"
+  }, {
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q1849",
+    "mass" : "165.93",
+    "maxNeutrons" : "109",
+    "minNeutrons" : "74",
+    "protons" : "68",
+    "symbol" : "Er"
+  }, {
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q1853",
+    "mass" : "168.934",
+    "maxNeutrons" : "110",
+    "minNeutrons" : "76",
+    "protons" : "69",
+    "symbol" : "Tm"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1855",
+    "maxNeutrons" : "112",
+    "minNeutrons" : "78",
+    "protons" : "70",
+    "symbol" : "Yb"
+  }, {
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q1857",
+    "mass" : "174.941",
+    "maxNeutrons" : "113",
+    "minNeutrons" : "79",
+    "protons" : "71",
+    "symbol" : "Lu"
+  }, {
+    "boiling_point" : "8316",
+    "density" : "13",
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q1119",
+    "mass" : "179.947",
+    "maxNeutrons" : "116",
+    "melting_point" : "4041",
+    "minNeutrons" : "81",
+    "protons" : "72",
+    "symbol" : "Hf"
+  }, {
+    "boiling_point" : "9797",
+    "density" : "16.65",
+    "element" : "http://www.wikidata.org/entity/Q1123",
+    "mass" : "180.948",
+    "maxNeutrons" : "117",
+    "melting_point" : "5425",
+    "minNeutrons" : "82",
+    "protons" : "73",
+    "symbol" : "Ta"
+  }, {
+    "boiling_point" : "10701",
+    "density" : "19.3",
+    "element" : "http://www.wikidata.org/entity/Q743",
+    "mass" : "183.951",
+    "maxNeutrons" : "118",
+    "melting_point" : "6170",
+    "minNeutrons" : "84",
+    "protons" : "74",
+    "symbol" : "W"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q737",
+    "mass" : "186.956",
+    "maxNeutrons" : "119",
+    "minNeutrons" : "85",
+    "protons" : "75",
+    "symbol" : "Re"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q751",
+    "mass" : "191.961",
+    "maxNeutrons" : "121",
+    "minNeutrons" : "86",
+    "protons" : "76",
+    "symbol" : "Os"
+  }, {
+    "electronegativity" : "2.2",
+    "element" : "http://www.wikidata.org/entity/Q877",
+    "mass" : "192.963",
+    "maxNeutrons" : "122",
+    "minNeutrons" : "87",
+    "protons" : "77",
+    "symbol" : "Ir"
+  }, {
+    "boiling_point" : "6921",
+    "density" : "21.45",
+    "element" : "http://www.wikidata.org/entity/Q880",
+    "mass" : "195.1",
+    "maxNeutrons" : "124",
+    "melting_point" : "3222",
+    "minNeutrons" : "88",
+    "protons" : "78",
+    "symbol" : "Pt"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q897",
+    "mass" : "196.967",
+    "maxNeutrons" : "126",
+    "minNeutrons" : "90",
+    "protons" : "79",
+    "symbol" : "Au"
+  }, {
+    "boiling_point" : "674",
+    "density" : "13.6",
+    "element" : "http://www.wikidata.org/entity/Q925",
+    "mass" : "201.971",
+    "maxNeutrons" : "130",
+    "melting_point" : "-38",
+    "minNeutrons" : "91",
+    "protons" : "80",
+    "symbol" : "Hg"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q932",
+    "mass" : "204.974427",
+    "maxNeutrons" : "131",
+    "minNeutrons" : "95",
+    "protons" : "81",
+    "symbol" : "Tl"
+  }, {
+    "boiling_point" : "3164",
+    "density" : "11.34",
+    "element" : "http://www.wikidata.org/entity/Q708",
+    "mass" : "207.2",
+    "maxNeutrons" : "133",
+    "melting_point" : "621",
+    "minNeutrons" : "96",
+    "protons" : "82",
+    "symbol" : "Pb"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q942",
+    "mass" : "208.98",
+    "maxNeutrons" : "135",
+    "minNeutrons" : "101",
+    "protons" : "83",
+    "symbol" : "Bi"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q979",
+    "mass" : "208.98243",
+    "maxNeutrons" : "136",
+    "minNeutrons" : "104",
+    "protons" : "84",
+    "symbol" : "Po"
+  }, {
+    "electronegativity" : "2.2",
+    "element" : "http://www.wikidata.org/entity/Q999",
+    "maxNeutrons" : "138",
+    "minNeutrons" : "106",
+    "protons" : "85",
+    "symbol" : "At"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1133",
+    "mass" : "222.018",
+    "maxNeutrons" : "143",
+    "minNeutrons" : "109",
+    "protons" : "86",
+    "symbol" : "Rn"
+  }, {
+    "electronegativity" : "0.7",
+    "element" : "http://www.wikidata.org/entity/Q671",
+    "mass" : "223.019736",
+    "maxNeutrons" : "145",
+    "minNeutrons" : "112",
+    "protons" : "87",
+    "symbol" : "Fr"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1128",
+    "mass" : "226.02541",
+    "maxNeutrons" : "146",
+    "minNeutrons" : "114",
+    "protons" : "88",
+    "symbol" : "Ra"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1121",
+    "maxNeutrons" : "147",
+    "minNeutrons" : "116",
+    "protons" : "89",
+    "symbol" : "Ac"
+  }, {
+    "electronegativity" : "1",
+    "element" : "http://www.wikidata.org/entity/Q1115",
+    "maxNeutrons" : "148",
+    "minNeutrons" : "119",
+    "protons" : "90",
+    "symbol" : "Th"
+  }, {
+    "electronegativity" : "2",
+    "element" : "http://www.wikidata.org/entity/Q1109",
+    "mass" : "231.036",
+    "maxNeutrons" : "149",
+    "minNeutrons" : "121",
+    "protons" : "91",
+    "symbol" : "Pa"
+  }, {
+    "density" : "19.05",
+    "element" : "http://www.wikidata.org/entity/Q1098",
+    "mass" : "238.051",
+    "maxNeutrons" : "150",
+    "minNeutrons" : "125",
+    "protons" : "92",
+    "symbol" : "U"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1105",
+    "maxNeutrons" : "151",
+    "minNeutrons" : "132",
+    "protons" : "93",
+    "symbol" : "Np"
+  }, {
+    "electronegativity" : "1.28",
+    "element" : "http://www.wikidata.org/entity/Q1102",
+    "mass" : "244.064",
+    "maxNeutrons" : "153",
+    "minNeutrons" : "134",
+    "protons" : "94",
+    "symbol" : "Pu"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1872",
+    "mass" : "243.061",
+    "maxNeutrons" : "154",
+    "minNeutrons" : "136",
+    "protons" : "95",
+    "symbol" : "Am"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1876",
+    "maxNeutrons" : "156",
+    "minNeutrons" : "136",
+    "protons" : "96",
+    "symbol" : "Cm"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1882",
+    "mass" : "247.07",
+    "maxNeutrons" : "157",
+    "minNeutrons" : "138",
+    "protons" : "97",
+    "symbol" : "Bk"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1888",
+    "mass" : "251.08",
+    "maxNeutrons" : "158",
+    "minNeutrons" : "139",
+    "protons" : "98",
+    "symbol" : "Cf"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1892",
+    "mass" : "252.083",
+    "maxNeutrons" : "159",
+    "minNeutrons" : "141",
+    "protons" : "99",
+    "symbol" : "Es"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1896",
+    "maxNeutrons" : "160",
+    "minNeutrons" : "141",
+    "protons" : "100",
+    "symbol" : "Fm"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1898",
+    "mass" : "258.098",
+    "maxNeutrons" : "159",
+    "minNeutrons" : "144",
+    "protons" : "101",
+    "symbol" : "Md"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1901",
+    "mass" : "259.101",
+    "maxNeutrons" : "160",
+    "minNeutrons" : "148",
+    "protons" : "102",
+    "symbol" : "No"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1905",
+    "mass" : "261.107",
+    "maxNeutrons" : "163",
+    "minNeutrons" : "149",
+    "protons" : "103",
+    "symbol" : "Lr"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1226",
+    "maxNeutrons" : "164",
+    "minNeutrons" : "149",
+    "protons" : "104",
+    "symbol" : "Rf"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1232",
+    "maxNeutrons" : "165",
+    "minNeutrons" : "150",
+    "protons" : "105",
+    "symbol" : "Db"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1234",
+    "maxNeutrons" : "165",
+    "minNeutrons" : "152",
+    "protons" : "106",
+    "symbol" : "Sg"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1249",
+    "maxNeutrons" : "167",
+    "minNeutrons" : "153",
+    "protons" : "107",
+    "symbol" : "Bh"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1252",
+    "maxNeutrons" : "169",
+    "minNeutrons" : "155",
+    "protons" : "108",
+    "symbol" : "Hs"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1258",
+    "maxNeutrons" : "169",
+    "minNeutrons" : "157",
+    "protons" : "109",
+    "symbol" : "Mt"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1266",
+    "maxNeutrons" : "171",
+    "minNeutrons" : "157",
+    "protons" : "110",
+    "symbol" : "Ds"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1272",
+    "maxNeutrons" : "171",
+    "minNeutrons" : "161",
+    "protons" : "111",
+    "symbol" : "Rg"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1278",
+    "maxNeutrons" : "173",
+    "minNeutrons" : "165",
+    "protons" : "112",
+    "symbol" : "Cn"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1301",
+    "maxNeutrons" : "173",
+    "minNeutrons" : "165",
+    "protons" : "113",
+    "symbol" : "Nh"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1302",
+    "maxNeutrons" : "175",
+    "minNeutrons" : "170",
+    "protons" : "114",
+    "symbol" : "Fl"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1303",
+    "maxNeutrons" : "175",
+    "minNeutrons" : "172",
+    "protons" : "115",
+    "symbol" : "Mc"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1304",
+    "maxNeutrons" : "177",
+    "minNeutrons" : "174",
+    "protons" : "116",
+    "symbol" : "Lv"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1306",
+    "maxNeutrons" : "177",
+    "minNeutrons" : "176",
+    "protons" : "117",
+    "symbol" : "Ts"
+  }, {
+    "element" : "http://www.wikidata.org/entity/Q1307",
+    "protons" : "118",
+    "symbol" : "Og"
+  } ]
+}
